@@ -1,0 +1,15 @@
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\bin\Release\netcoreapp2.1\FGrabV3.deps.json
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\bin\Release\netcoreapp2.1\FGrabV3.runtimeconfig.json
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\bin\Release\netcoreapp2.1\FGrabV3.runtimeconfig.dev.json
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\bin\Release\netcoreapp2.1\FGrabV3.dll
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\bin\Release\netcoreapp2.1\FGrabV3.pdb
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.csprojAssemblyReference.cache
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.csproj.CoreCompileInputs.cache
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.RazorAssemblyInfo.cache
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.RazorAssemblyInfo.cs
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.AssemblyInfoInputs.cache
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.AssemblyInfo.cs
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.RazorTargetAssemblyInfo.cache
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.dll
+D:\STUDY\CN7_FALL2019\Spring 2019\SWD391 - Software Architecture and Design\FGrabV3\FGrabV3\FGrabV3\obj\Release\netcoreapp2.1\FGrabV3.pdb

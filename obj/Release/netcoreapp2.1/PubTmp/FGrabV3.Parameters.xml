@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="FGrabV5" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\STUDY\\CN7_FALL2019\\Spring\ 2019\\SWD391\ -\ Software\ Architecture\ and\ Design\\FGrabV3\\FGrabV3\\FGrabV3\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
